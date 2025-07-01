@@ -36,6 +36,6 @@ img {
 }
 
 .done {
-    color: rgb(224, 84, 159);
+    color: darkseagreen;
     text-decoration: line-through solid black 2px;
 }

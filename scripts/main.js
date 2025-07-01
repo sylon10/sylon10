@@ -45,3 +45,5 @@ if (!localStorage.getItem("name")) {
 myButton.addEventListener("click", () => {
   setUserName();
 })
+
+console.log("stored name:", localStorage.getItem("name"));
